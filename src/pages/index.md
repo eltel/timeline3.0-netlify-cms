@@ -1,7 +1,8 @@
 ---
 templateKey: index-page
 title: Timeline Music 3.0
-image: /img/timelinemusicoscilator-stretch1.jpg
+image: >-
+  https://res.cloudinary.com/setstate/image/upload/c_scale,f_auto,q_auto,w_160/v1565199423/nrjpp1txcjunkxg3qldn.jpg
 heading: Techno with Flavour
 subheading: Techno with FlavourTechno with FlavourTechno with FlavourTechno with Flavour
 mainpitch:
