@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Timeline Music 3.0
 image: >-
-  https://res.cloudinary.com/setstate/image/upload/e_sepia:80,q_auto:good,r_30/c_scale,f_auto,q_auto,w_160/v1565199423/tlmusic_logo_sepia2.jpg
+  https://res.cloudinary.com/setstate/image/upload/e_cartoonify,q_auto:eco,r_30/c_scale,f_auto,q_auto,w_160/v1565199423/tlmusic_logo_sepia2.jpg
 heading: Techno with Flavour
 subheading: Techno with FlavourTechno with FlavourTechno with FlavourTechno with Flavour
 mainpitch:
