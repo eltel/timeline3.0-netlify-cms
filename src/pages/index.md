@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/tlmusic.jpg
+image: /img/timelinemusicoscilator-stretch1.jpg
 heading: Techno with Flavour
 subheading: Techno with FlavourTechno with FlavourTechno with FlavourTechno with Flavour
 mainpitch:
