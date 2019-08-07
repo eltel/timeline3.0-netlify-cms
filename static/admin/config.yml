@@ -15,21 +15,6 @@ media_library:
           width: 160
           quality: auto
           crop: scale
-# field
-fields: # The fields each document in this collection have
-  - label: "Cover Image"
-    name: "image"
-    widget: "image"
-    required: false
-    tagname: ""
-    media_library:
-      config:
-        default_transformations:
-          - - fetch_format: auto
-              width: 300
-              quality: auto
-              crop: fill
-              effect: grayscale
     cloud_name: setstate
     api_key: 285128518839716
 
