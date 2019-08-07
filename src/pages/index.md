@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Timeline Music 3.0
 image: /img/timelinemusicoscilator-stretch1.jpg
 heading: Techno with Flavour
 subheading: Techno with FlavourTechno with FlavourTechno with FlavourTechno with Flavour
